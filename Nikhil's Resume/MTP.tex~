@@ -1,0 +1,18 @@
+\resheading{M.Tech. Project}
+\begin{itemize}
+\item \textbf{Web Security - Next Generation Attacks and Defenses} \\
+      \emph{(M.Tech. Project, under the guidance of Prof. Bernard Menezes)} \hfill {\emph{May'13 - till date}} \\[-0.6cm]
+      \begin{itemize}
+%	    \item Studying various features of HTML5 that are vulnerable to Web attacks \\[-0.5cm]
+	    \item Designing attacks on web applications that exploit features in the recent \textbf{HTML Version 5} \\[-0.5cm]
+%	    \item Studying new attack variants of Clickjacking attacks and others in HTML5 \\[-0.5cm]
+%	    \item Studying Clickjacking attack and other new generation attack vectors in HTML5 \\[-0.5cm]
+	    \item Implementing next generation Clickjacking, XSS and blended attacks on the \textbf{WWW}  \\[-0.5cm]
+	    \item Critically evaluating client side, server side and combined client-server side defenses \\[-0.5cm]
+%	    \item Implementing attacks on different browsers by exploiting these features in a malicious way \\[-0.5cm]
+%	    \item Coding in Javascript for implementing attacks \\[-0.5cm]
+%	    \item Analysing current defense of Clickjacking attack to discover a loophole in it \\[-0.5cm]
+	    \item Upgrading browser extensions for enhanced security
+%	    \item Developing defenses corresponding to these attacks in the form of Mozilla Firefox extension
+      \end{itemize}
+\end{itemize}

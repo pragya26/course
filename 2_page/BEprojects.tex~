@@ -1,0 +1,9 @@
+\resheading{Other Projects}\\[-0.8cm]\\
+\begin{itemize}
+	\item \textbf{Online HR Recruitment} \hfill \emph{(Jul'12-Mar'13)} \\[-0.4cm]
+	\begin{itemize}
+	      \item Objective was to develop a website for making recruitment process online\\[-0.4cm]
+	      \item It is a php based project and database used is sql-server.\\[-0.4cm]
+	      \item Performs shorlisting according to the details filled by the applicants.\\[-0.4cm]
+	\end{itemize}
+\end{itemize}

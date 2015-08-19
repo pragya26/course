@@ -1,0 +1,14 @@
+\resheading{M.Tech. Seminar}
+\begin{itemize}
+\item \textbf{Secure Group Communication Over Data Networks}  \\
+      \emph{(M.Tech. Seminar, under the guidance of Prof. Virendra Sule and co-guidance Prof. Bernard Menezes)} \hfill {\emph{Spring '13}} \\[-0.6cm]
+      \begin{itemize}
+	    \item Studied security related issues in Group Communication \\[-0.5cm]
+	    \item Studied various protocols for computing and distributing the group key securely among the legitimate members \\[-0.5cm]
+%	    \item Studied protocols based on Centralized Key Distribution, Distributed Key Agreement and Secret Key Cryptosystem \\[-0.5cm]
+%	    \item Protocols based on public key and secret key cryptosystem \\[-0.5cm]
+	    \item Analysed these schemes based on communication and computation costs
+%	    \item Compared the efficiency of these protocols for group key change operation
+%	    \item Application of these protocols in real world scenario
+      \end{itemize}
+\end{itemize}

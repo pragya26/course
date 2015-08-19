@@ -1,0 +1,104 @@
+\documentclass[a4paper,10pt]{article}
+%-----------------------------------------------------------
+\usepackage[top=0.75in, bottom=0.75in, left=0.55in, right=0.85in]{geometry}
+\usepackage{graphicx}
+% \usepackage{comment}
+\usepackage{palatino}
+\fontfamily{SansSerif}
+\selectfont
+
+\usepackage[T1]{fontenc}
+\usepackage[ansinew]{inputenc}
+\usepackage[none]{hyphenat}
+% \usepackage{helvetica}
+% \usepackage{array}
+\usepackage{color}
+\usepackage{newclude}
+\definecolor{mygrey}{gray}{0.75}
+\textheight=10in
+\raggedbottom
+% \raggedright
+\setlength{\tabcolsep}{0in}
+\newcommand{\isep}{-2 pt}
+\newcommand{\lsep}{-0.4cm}
+\newcommand{\psep}{-0.5cm}
+\renewcommand{\labelitemii}{$\circ$}
+% Adjust margins
+%\addtolength{\oddsidemargin}{-0.375in}
+%\addtolength{\evensidemargin}{-0.375in}
+%\addtolength{\textwidth}{1.75in}
+%\addtolength{\topmargin}{0.1375in}
+%\addtolength{\textheight}{1.75in}
+\pagestyle{empty}
+%-----------------------------------------------------------
+%Custom commands
+\newcommand{\resitem}[1]{\item #1 \vspace{-2pt}}
+\newcommand{\resheading}[1]{{\small \colorbox{mygrey}{\begin{minipage}{0.975\textwidth}{\textbf{ \vphantom{p\^{E}} \large #1}}\end{minipage}}}}
+\newcommand{\ressubheading}[3]{
+\begin{tabular*}{6.62in}{l @{\extracolsep{\fill}} r}
+	\textsc{{\textbf{#1}}} & \textsc{\textit{[#2]}} \\
+\end{tabular*}\vspace{-8pt}}
+% \textit{#3} &  \\
+%-----------------------------------------------------------
+
+\begin{document}
+\hspace{0.5cm}\\
+\hspace{0.5cm}\\
+\hspace{0.5cm}\\
+\hspace{0.5cm}\\
+\hspace{0.5cm}\\
+\hspace{0.5cm}\\
+\hspace{0.5cm}\\
+\hspace{0.5cm}\\
+\hspace{0.5cm}\\
+\hspace{0.5cm}\\
+\hspace{0.5cm}\\
+\hspace{0.5cm}\\[-0.2cm]
+
+\begin{table}[!ht]
+\centering
+\begin{tabular}{l    l}
+
+\large \textbf {Sandeepkumar Pawar} & \textbf{\hspace {0.5cm}123050096} \\
+\large \textbf {Computer Science \& Engineering} & \hspace {0.5cm}\textbf{M.Tech} \\
+\large \textbf {E-mail} &  \hspace {0.5cm}\textbf{sandippawar1412@gmail.com} \\
+\large \textbf {Indian Institute of Technology Bombay} &  \textbf{\hspace {0.5cm}Male}\\
+\large \textbf{Contact} & \hspace {0.5cm}\textbf{+91 9960587253}\\
+        & \hspace {0.5cm}\textbf{+91 9967451827}\\
+\end{tabular}
+
+\end{table}
+
+\begin{table}[!ht]
+\begin{tabular}{l l l l l}
+\hline
+
+\textbf{Examination } & \textbf{University} & \textbf{Institute} &\textbf{Year} &\textbf{CPI/\%} \\\hline \\
+Post Graduation   &  \hspace{0.3cm}IIT Bombay& \hspace{0.3cm}IIT Bombay &\hspace{0.3cm} 2014 &\hspace{0.3cm}8.28  \\
+Undergraduate Specialization: Computer Science \\
+Graduation &\hspace{0.3cm}Pune &\hspace{0.3cm}DYPCOE, Akurdi, Pune &\hspace{0.3cm}2011 &\hspace{0.3cm}67.18\\
+Intermediate/+2 &\hspace{0.3cm}HSC, Pune &\hspace{0.3cm}Jr.College Vita &\hspace{0.3cm}2007 &\hspace{0.3cm}79.33\\
+Matriculation &\hspace{0.3cm}SSC, Pune &\hspace{0.3cm}Vita Highschool &\hspace{0.3cm}2005 &\hspace{0.3cm}68.66\\ \\\hline
+\end{tabular}
+\end{table}
+
+
+\include*{FieldInterest}
+\vspace{0.15cm}
+\include*{MTP}
+
+\include*{Seminar}
+
+\include*{ProjectsShort}
+
+\include*{BEprojects}
+
+\include*{MtechCourses}
+
+\include*{TechnicalSkills}
+
+\include*{POR}
+
+\include*{ExtraCurricular}
+
+\end{document}

@@ -1,0 +1,59 @@
+\resheading{Course Projects}
+\begin{itemize}
+	\item \textbf{CSRF, Blind SQLi, DOM based XSS: The Evil Triangle} \hfill \emph{Network Security and Cryptography II} \\
+	\emph{(Guided by Prof. Bernard Menezes, Spring '13)} \hfill \\[-0.6cm]
+	\begin{itemize}
+	      \item Carried out CSRF attack on a social networking site \\[-0.5cm]
+	      \item Demonstrated Blind SQL Injection attack on a website \\[-0.5cm]
+	      \item Created a demo for DOM based XSS attack \\[-0.5cm]
+	      \item Studied different countermeasure techniques for the above attacks \\[-0.6cm]
+	\end{itemize}
+	
+	\item \textbf{Design of Block Cipher and its analysis} \hfill \emph{An Introduction to Number Theory and Cryptography} \\
+	\emph{(Guided by Prof. Virendra Sule, Spring '13)} \hfill \\[-0.6cm]
+	\begin{itemize}
+	      \item Designed a 32-bit block encryption function, using SAGE tool \\[-0.5cm]
+	      \item Developed modules for Dynamic S-box Generation, Division-based Round Key Generation and Linear Mixing of the bits, using Python \\[-0.5cm]
+	      \item Successfully achieved avalanche effect in the encryption fucntion and carried out stream rank test on the ciphertext generated \\[-0.6cm]
+%	      \item Successfully achieved avalanche effect in the encryption function \\[-0.5cm]
+%	      \item Carried out stream rank test on the ciphertext generated \\[-0.6cm]
+	\end{itemize}
+
+	\item \textbf{Segment Routing Optimization} \hfill \emph{Optical and Access Networks} \\
+	\emph{(Guided by Prof. Ashwin Gumaste, ongoing)} \hfill \\[-0.6cm]
+	\begin{itemize}
+	      \item Improving the scalability of source routing \\[-0.5cm]
+	      \item Investigating the nodes from the perspective of SDNs, multi-domain and load-balancing, using \\ simulation \\[-0.6cm]
+	\end{itemize}
+
+	\item \textbf{Interpreter for micro-Haskell} \hfill \emph{Functional Programming} \\
+	\emph{(Guided by Prof. Amitabha Sanyal, Autumn '12)} \hfill \\[-0.6cm]
+	\begin{itemize}
+	      \item Designed a parser for converting programs in micro-Haskell to an internal representation in Haskell \\[-0.5cm]
+	      \item Translation of these internal representation to G-code and interpretation of the same \\
+	\end{itemize}
+
+	\item \textbf{Performance Analysis of Sort Utility} \hfill \emph{Software Lab} \\
+	\emph{(Guided by Prof. Supratim Biswas, Autumn '12)} \hfill \\[-0.6cm]
+	\begin{itemize}
+	      \item Compared performance of Optimized, Unoptimized and Manually Optimized sort code \\[-0.5cm]
+	      \item Used Bash scripting alongwith Perf tool, SVN and Gnuplot \\[-0.6cm]
+	      %\item Made use of Perf tool, bash scripting, Gnuplot, SVN \\[-0.6cm]
+	\end{itemize}
+
+	\item \textbf{Nutrient Feeding Robot} \hfill \emph{Embedded Systems} \\
+	\emph{(Guided by Prof. Kavi Arya, Autumn '12)} \hfill \\[-0.6cm]
+	\begin{itemize}
+	      \item Programming in Embedded C for ATMEGA 2560 microcontroller board \\[-0.5cm]
+	      \item Locates plants using sensors and sprinkles nutrients around it using circular mesh and vibrator \\[-0.5cm]
+	      \item Used Rack and Pinion gear mechanism to facilitate the linear movement of mesh
+	\end{itemize}
+
+%	\item \textbf{Architecture of Spring MVC Framework} \hfill \emph{Software Architecture} \\
+%	\emph{(Guided by Prof. Rushikesh Joshi, Spring '13)} \hfill \\[-0.6cm]
+%	\begin{itemize}
+%	      \item Analysed different components of Spring MVC Architecture  \\[-0.5cm]
+%	      \item Developed a sample application and BPMN model for the same
+%	\end{itemize}
+
+\end{itemize}

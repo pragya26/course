@@ -1,0 +1,18 @@
+\resheading{BE Projects}
+\begin{itemize}
+
+	\item \textbf{Authentication using Biometric Pattern Analysis} \hfill \emph{BE Final Year Project} \\[-0.6cm]
+	\begin{itemize}
+%	      \item Programming in Matlab \\[-0.5cm]
+	      \item Used webcam for capturing series of images of a palm, secret palm pattern only known to the user \\[-0.5cm]
+	      \item Implemented image processing through a series of operations to determine the final pattern, using Matlab \\[-0.6cm]
+	\end{itemize}
+
+	\item \textbf{Cricket Website} \hfill \emph{BE Third Year Project} \\[-0.6cm]
+	\begin{itemize}
+%	      \item Implemented the whole website in HTML \\[-0.5cm]
+	      \item Developed an interactive website which displays the information of the selected team and their players
+%	      \item Also, displaying the detailed information of the players selected
+	\end{itemize}
+
+\end{itemize}

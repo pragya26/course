@@ -1,0 +1,9 @@
+\resheading{M.Tech. Project} \\[-1cm]\\
+\begin{itemize}
+	\item \textbf{Analysis and Design of Map-reduce algorithm for streaming data} \hfill {\emph{May'15-till date}} \\[-0.1cm] 
+	\emph{(Guided by Prof. Nutan Limaye)} \hfill \\[-1.1 cm]\\
+	\begin{itemize}
+		\item Objective is to design an efficient map-reduce algorithm for streaming data.
+		\item Initial work includes the implementation of existing algorithm in hadoop for efficient analysis of data.\\[-1cm]\\
+	\end{itemize}
+\end{itemize}

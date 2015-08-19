@@ -1,0 +1,17 @@
+\resheading{Course Projects}\\[-0.7cm]\\
+\begin{itemize}
+	\item \textbf{Automation of NS3 simulation for different configuration} \hfill \emph{[Software Lab]} \\
+	\emph{(Guided : Prof. Bhaskaran Raman, Jul'14-Nov'14)} \hfill \\[-1cm]\\ 
+\begin{itemize}
+\item Objective is to automate ns-3  network  simulator using script and configuration file.  
+\item Tshark is used to analyze the packet traces for various metrics, plot relevant graphs and analyse it.
+\item The Lex and Yacc files are used to parse the configuration file and set the appropriate parameters to the simulator file. These paramenters are set to different values for different run by lex-yacc program. 
+\item It then generates a summarised dataset and pyplot uses this dataset to make graphs.
+\end{itemize}
+\item \textbf{Recognizing well balanced parenthesized expression in streaming data} \hfill \emph{[Applied Algorithm]} \\
+	\emph{(Guide : Prof. Nutan Limaye, Feb'15-Apr'15)} \hfill \\[-1cm]\\ 
+\begin{itemize}
+\item Understand the key concepts in the streaming data and the challenges faced for analysing the data.
+\item Read and understood the correctness probability of the algorithm and presented in class.
+\end{itemize}
+\end{itemize}

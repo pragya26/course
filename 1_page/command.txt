@@ -1,0 +1,2 @@
+java -jar ResumeGenerator.jar "Pragya Gangber" 143050069 "Computer Science & Engineering" "M.Tech." "IIT Bombay" Female "Computer Science" "Apr 26, 1992" "Post Graduation;IIT Bombay;IIT Bombay;2014-15;7.59" "undergraduate;CSVTU Bhilai;SSCET;2013;8.38" "Intermediate/+2;CBSE;JNV Dantewada;2009;86" "Matriculation;CBSE;JNV Dantewada;2007;85.33"
+
